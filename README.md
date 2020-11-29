@@ -1,5 +1,4 @@
 # Awesome Things
-Awesome things I don't want to miss
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
