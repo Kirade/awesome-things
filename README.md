@@ -1,6 +1,9 @@
 # Awesome Things
 Awesome things I don't want to miss
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
 ### Django
 - [James Bennett's Weblog](https://www.b-list.org/weblog/categories/django/)
 
